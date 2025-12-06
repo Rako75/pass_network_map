@@ -3,7 +3,6 @@
 Visualisation des réseaux de passes pour l'analyse tactique footballistique.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 ![mplsoccer](https://img.shields.io/badge/mplsoccer-1.1+-orange.svg)
 
 ## 📸 Aperçu
