@@ -54,19 +54,6 @@ project/
 └── Man City.png                # Logo équipe extérieure
 ```
 
-### Format attendu
-
-**match_events_rows.csv**
-```csv
-id,type_display_name,outcome_type_display_name,player_id,team_id,x,y,period_display_name,minute,second
-1,Pass,Successful,123,456,50.0,50.0,FirstHalf,5,30
-```
-
-**players_rows.csv**
-```csv
-player_id,name,shirt_no,position
-123,John Doe,10,Midfielder
-```
 
 ## 🎨 Personnalisation
 
@@ -131,5 +118,3 @@ Le script génère automatiquement :
 - **networkx** : Analyse de graphes
 
 ---
-
-⚽ **Fait avec passion pour l'analyse tactique** ⚽
