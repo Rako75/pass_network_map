@@ -1,6 +1,6 @@
 # ⚽ Football Passing Network Analyzer
 
-Visualisation professionnelle des réseaux de passes pour l'analyse tactique footballistique.
+Visualisation des réseaux de passes pour l'analyse tactique footballistique.
 
 ![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
@@ -8,7 +8,7 @@ Visualisation professionnelle des réseaux de passes pour l'analyse tactique foo
 
 ## 📸 Aperçu
 
-![Passing Network Example](passing_network_HD.png)
+![Passing Network Example](passing_network.png)
 
 *Analyse du réseau de passes de Manchester City lors de la victoire 5-4 contre Fulham*
 
