@@ -105,7 +105,7 @@ Indiquent les **axes de jeu privilégiés** (>80% du maximum de passes).
 ## 💾 Export
 
 Le script génère automatiquement :
-- `passing_network_HD.png` (300 DPI - 2-4 MB)
+- `passing_network.png` (300 DPI - 2-4 MB)
 - `passing_network_VECTOR.pdf` (vectoriel - zoom infini)
 
 ## 🛠️ Technologies utilisées
